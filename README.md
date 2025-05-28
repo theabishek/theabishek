@@ -1,35 +1,31 @@
-<!--
-  README for Abhishek Yadav — Full Stack Web Developer
--->
-
-<h1 align="center">Hey 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Learner</h3>
+<h1 align="center">Hi there 👋, I'm Abhishek Yadav</h1>
+<h3 align="center">Full Stack Developer | Curious Coder | Lifelong Learner</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-I build **efficient**, **scalable**, and **user-friendly** web applications — bridging the gap between elegant frontends and powerful backends.
+I design and develop **efficient**, **scalable**, and **user-focused** web applications — blending intuitive frontends with solid backends.
 
-- ⚡ Proficient in Java, JavaScript, Python, SQL  
-- 🎯 Experienced with frontend essentials: HTML5 & CSS3  
-- 🚀 Currently mastering **Node.js** & **Express.js**  
-- 🛠️ Daily tools: VS Code, Git & GitHub  
-- 🌱 Always hungry to learn new tech & sharpen problem-solving skills  
+- 💡 Skilled in Java, JavaScript, Python, and SQL  
+- 🎨 Experienced with semantic HTML5 & modern CSS3  
+- 🧱 Currently exploring **Node.js** & **Express.js**  
+- 🛠️ Tools I rely on: VS Code, Git & GitHub  
+- 🔍 Always leveling up through practice, bugs, and breakthroughs  
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Projects
 
 ### [Tour-Ease](https://github.com/theabishek/Tour-Ease)  
-A smart travel assistant app that simplifies trip planning and enhances your travel experience.
+A smart travel assistant app that helps you plan your trips with ease and confidence.
 
 ### [Quizzy](https://github.com/theabishek/Quizzy)  
-An engaging quiz platform built for learning and fun with instant feedback and scores.
+An interactive quiz app built for learning, self-challenges, and fun.
 
 ---
 
-### 💻 Tech Stack
+## 🧰 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -43,14 +39,14 @@ An engaging quiz platform built for learning and fun with instant feedback and s
 
 ---
 
-## 📫 Let's Connect!
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishekydv)  
-[![Email](https://img.shields.io/badge/-abishekyaduvanshi38@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:abishekyaduvanshi38@gmail.com)](mailto:abishekyaduvanshi38@gmail.com)
+[![Email](https://img.shields.io/badge/-abishekyaduvanshi38@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:abishekyaduvanshi38@gmail.com)
 
 ---
 
-### ⚡ Dev-Logic
+## 🧩 Dev Logic
 
 ```js
 const abhishek = {
