@@ -1,42 +1,56 @@
-<h1 align="center">Hey there 👋, I'm Abhishek Yadav</h1>
+<!--
+  README for Abhishek Yadav — Full Stack Web Developer
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Code.+Create.+Repeat.;HTML+%2B+CSS+%2B+JS+in+action!;Exploring+Python%2C+Java%2C+SQL+and+more!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
-### 💡 About Me
-I am a passionate **Full Stack Web Developer** skilled in Java, HTML, CSS, JavaScript, Python, and SQL. Currently diving deep into **Node.js** and **Express.js** to build scalable and efficient backend applications. I enjoy crafting clean, functional, and user-friendly web experiences.
+<h1 align="center">Hey 👋, I'm Abhishek Yadav</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Learner</h3>
 
 ---
 
-### 🧰 Toolbox
+## 👨‍💻 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+I build **efficient**, **scalable**, and **user-friendly** web applications — bridging the gap between elegant frontends and powerful backends.
+
+- ⚡ Proficient in Java, JavaScript, Python, SQL  
+- 🎯 Experienced with frontend essentials: HTML5 & CSS3  
+- 🚀 Currently mastering **Node.js** & **Express.js**  
+- 🛠️ Daily tools: VS Code, Git & GitHub  
+- 🌱 Always hungry to learn new tech & sharpen problem-solving skills  
+
+---
+
+## 🔥 Featured Projects
+
+### [Tour-Ease](https://github.com/theabishek/Tour-Ease)  
+A smart travel assistant app that simplifies trip planning and enhances your travel experience.
+
+### [Quizzy](https://github.com/theabishek/Quizzy)  
+An engaging quiz platform built for learning and fun with instant feedback and scores.
+
+---
+
+### 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🛠️ Featured Projects
+## 📫 Let's Connect!
 
-- 🌍 [**Tourease**](https://github.com/theabishek/Tour-Ease) – A travel planner that makes your journey smoother  
-- 🧠 [**Quizzy**](https://github.com/theabishek/quizzy) – An interactive quiz app packed with fun  
-
----
-
-### 📫 Let's Connect
-
-- ✉️ Email: **abishekyaduvanshi38@gmail.com**  
-- 🔗 LinkedIn: [**Abhishek Yadav**](https://www.linkedin.com/in/abishekydv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abishekydv)  
+[![Email](https://img.shields.io/badge/-abishekyaduvanshi38@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:abishekyaduvanshi38@gmail.com)](mailto:abishekyaduvanshi38@gmail.com)
 
 ---
 
-### ⚡ Fun Mode: ON
+### ⚡ Dev-Logic
 
 ```js
 const abhishek = {
