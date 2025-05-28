@@ -39,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theabishek&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theabishek&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabishek&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
