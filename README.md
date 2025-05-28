@@ -1,7 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">Full Stack Developer</h3>
-
----
 
 ## 🧠 About Me
 
@@ -13,7 +10,7 @@ I design and develop **efficient**, **scalable**, and **user-focused** web appli
 - 🛠️ Tools I rely on: VS Code, Git & GitHub  
 - 🔍 Always leveling up through practice, bugs, and breakthroughs  
 
----
+##
 
 ## 🧰 Tech Stack
 
@@ -29,7 +26,7 @@ I design and develop **efficient**, **scalable**, and **user-focused** web appli
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
+##
 
 ## 📬 Let's Connect
 
@@ -43,7 +40,7 @@ I design and develop **efficient**, **scalable**, and **user-focused** web appli
   </a>
 </p>
 
----
+##
 
 ## 🧩 Dev Logic
 
