@@ -1,17 +1,13 @@
 <h1 align="center">Hey there 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">Crafting code with creativity & curiosity 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;HTML+%2B+CSS+%2B+JS+in+action!;Exploring+Python%2C+Java%2C+SQL+and+more!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Code.+Create.+Repeat.;HTML+%2B+CSS+%2B+JS+in+action!;Exploring+Python%2C+Java%2C+SQL+and+more!;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💡 About Me
-- 💻 I love solving problems with code  
-- 🎨 Web and app ideas are my playground  
-- ⚙️ Always tinkering, learning, and pushing boundaries  
-- 🔭 Building mini-projects that grow into something cool  
+I am a passionate **Full Stack Web Developer** skilled in Java, HTML, CSS, JavaScript, Python, and SQL. Currently diving deep into **Node.js** and **Express.js** to build scalable and efficient backend applications. I enjoy crafting clean, functional, and user-friendly web experiences.
 
 ---
 
