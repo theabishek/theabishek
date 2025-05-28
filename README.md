@@ -28,7 +28,7 @@
 
 ### 🛠️ Featured Projects
 
-- 🌍 [**Tourease**](https://github.com/theabishek/tourease) – A travel planner that makes your journey smoother  
+- 🌍 [**Tourease**](https://github.com/theabishek/Tour-Ease) – A travel planner that makes your journey smoother  
 - 🧠 [**Quizzy**](https://github.com/theabishek/quizzy) – An interactive quiz app packed with fun  
 
 ---
@@ -36,7 +36,7 @@
 ### 📫 Let's Connect
 
 - ✉️ Email: **abishekyaduvanshi38@gmail.com**  
-- 🔗 LinkedIn: [**abishekydv**](https://www.linkedin.com/in/abishekydv)
+- 🔗 LinkedIn: [**Abhishek Yadav**](https://www.linkedin.com/in/abishekydv)
 
 ---
 
