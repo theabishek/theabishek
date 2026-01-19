@@ -1,7 +1,7 @@
-<h2 align="center">Hey there, I'm Abhishek 👋</h2>
-<p align="center">
+<h1 align="center">Hey there, I'm Abhishek 👋</h1>
+<h3 align="center">
 Fullstack Developer
-</p>
+</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhishekydv">LinkedIn</a> ·
