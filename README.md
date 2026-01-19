@@ -4,13 +4,8 @@ Fullstack Developer
 </h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abishekydv" style="border-bottom: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="20" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/heyabishek" style="border-bottom: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="20" />
-  </a>
+  <a href="https://linkedin.com/in/abhishekydv">LinkedIn</a> ·
+  <a href="https://x.com/heyabishek">X</a>
 </p>
 
 ---
