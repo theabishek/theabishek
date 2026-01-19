@@ -1,53 +1,30 @@
-<h1 align="center">Hi there 👋, I'm Abhishek Yadav</h1>
+# Hi there, I'm Abhishek 👋
 
-## 🧠 About Me
+**Fullstack Developer | CS Student | DSA Enthusiast**
 
-I design and develop **efficient**, **scalable**, and **user-focused** web applications — blending intuitive frontends with solid backends.
+I am a passionate developer focused on building functional web applications and solving complex problems through Data Structures and Algorithms.
 
-- 💡 Skilled in Java, JavaScript, Python, and SQL  
-- 🎨 Experienced with semantic HTML5 & modern CSS3  
-- 🧱 Currently exploring **Node.js** & **Express.js**  
-- 🛠️ Tools I rely on: VS Code, Git & GitHub  
-- 🔍 Always leveling up through practice, bugs, and breakthroughs  
+### 🛠️ Tech Stack
 
-##
+**Languages** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-## 🧰 Tech Stack
+**Libraries & Frameworks** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+**Tools** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-##
+---
 
-## 📬 Let's Connect
+### 🚀 Currently Working On
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abishekydv">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:abishekyaduvanshi38@gmail.com">
-    <img src="https://img.shields.io/badge/-abishekyaduvanshi38@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+* **Git & GitHub:** Developing a comprehensive blog series for beginners to simplify version control.
+* **AI Integration:** Exploring ways to integrate artificial intelligence into modern web architectures.
 
-##
+### 🤝 Collaboration
 
-## 🧩 Dev Logic
+I am always looking to collaborate on interesting **Web Development projects** or open-source initiatives. If you have a project in mind, feel free to reach out!
 
-```js
-const abhishek = {
-  languages: ["JavaScript", "Python", "Java", "SQL"],
-  frontend: ["HTML", "CSS"],
-  hobbies: ["building stuff", "googling errors", "debugging life"],
-  motto: "Think it. Build it. Improve it.",
-};
+### 📫 Connect with Me
+
+* **LinkedIn:** [abhishekydv](https://linkedin.com/in/abhishekydv)
+* **Twitter / X:** [@heyabishek](https://x.com/heyabishek)
+* **Email:** [abishekyadhuvanshi38@gmail.com](mailto:abishekyadhuvanshi38@gmail.com)
