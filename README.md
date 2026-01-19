@@ -1,11 +1,16 @@
 <h2 align="center">Hey there, I'm Abhishek 👋</h2>
-<h3 align="center">
+<h4 align="center">
 Fullstack Developer
-</h3>
+</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishekydv">LinkedIn</a> ·
-  <a href="https://x.com/heyabishek">X</a>
+  <a href="https://linkedin.com/in/abhishekydv">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" height="20" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/heyabishek">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" height="20" />
+  </a>
 </p>
 
 ---
@@ -14,7 +19,7 @@ Fullstack Developer
 
 I’m a **Fullstack Developer** with a strong foundation in **Data Structures and Algorithms**.
 
-I enjoy building reliable web applications by combining clean backend logic with intuitive user interfaces. My focus is on writing maintainable code, improving performance, and solving problems effectively.
+I build reliable web applications by combining clean backend logic with intuitive user interfaces. My focus is on maintainable code, performance, and practical problem-solving.
 
 - Strong in **DSA**
 - Experience building **end-to-end web applications**
@@ -25,16 +30,13 @@ I enjoy building reliable web applications by combining clean backend logic with
 
 ### Tech Stack
 
-**Languages**
-<br/>
+**Languages**  
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mongodb" />
 
-**Frameworks & Runtime**
-<br/>
+**Frameworks & Runtime**  
 <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 
-**Tools**
-<br/>
+**Tools**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 ---
