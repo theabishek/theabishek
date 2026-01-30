@@ -25,14 +25,7 @@ I build reliable web applications by combining clean backend logic with intuitiv
 
 ### Tech Stack
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mongodb" />
-
-**Frameworks & Runtime**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-**Tools**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mongodb,react,nodejs,express,git,github,vscode" />
 
 ---
 
