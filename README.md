@@ -1,4 +1,4 @@
-<h2 align="center">Hey there, I'm Abhishek 👋</h2>
+<h1 align="center">Hey there, I'm Abhishek 👋</h1>
 <h4 align="center">
 Fullstack Developer
 </h4>
@@ -24,8 +24,9 @@ I build reliable web applications by combining clean backend logic with intuitiv
 ---
 
 ### Tech Stack
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css,mysql,mongodb,react,nodejs,express,git,github,vscode" />
+</p>
 
 ---
 
